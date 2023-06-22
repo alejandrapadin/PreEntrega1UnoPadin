@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(255, 210, 9);
+}
+h1{
+    font-weight: bold;
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+}
